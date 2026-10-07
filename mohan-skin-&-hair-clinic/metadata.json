@@ -1,0 +1,8 @@
+{
+  "name": "Mohan Skin & Hair Clinic",
+  "description": "Premium dermatology, skin care, and hair care clinic in Vijayanagar, Mysuru. Seamless appointment booking, treatment information, clinic timings, and patient reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
